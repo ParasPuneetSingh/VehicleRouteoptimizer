@@ -1,0 +1,57 @@
+stop_name,latitude,longitude,num_passengers,is_destination
+"Mai Mangeshkar hospital Warje, Pune",18.4852,73.7998,2,False
+"Pashan Sus over bridge, Pune",18.5907721,73.8167953,1,False
+"Wakad Bhujbal chowk, Pune",18.5924,73.7617,2,False
+"Mamurdi gaon, Pune",18.671,73.7174,3,False
+"Mukai Chowk, Pune",18.6605,73.7317,2,False
+Dehu Road,18.7167,73.7678,1,False
+"Sangurdi Phata, Pune",18.7221,73.7622,3,False
+"Shivane, Pune",18.4662,73.7822,1,False
+"Mamacha Gaon, Pune",18.700486,73.660004,2,False
+"Parandwadi, Pune",18.6981,73.658,2,False
+"Urse, Pune",18.7042,73.6415,1,False
+"Somatane Phata, Pune",18.7067,73.6904,2,False
+"Sant Tukaram Maharaj Chowk, Pune",18.5997,73.7447,3,False
+"Nana Nani Chowk, Pune",18.4474,73.8628,2,False
+"Jijamata Chowk, Pune",18.7217,73.6845,1,False
+"Khandge Petrol Pump, Pune",18.7242,73.6821,2,False
+"Talegaon Nagar Palika, Pune",18.7194,73.6833,1,False
+"Talegaon BSNL, Pune",18.7294,73.6766,3,False
+"Balaji Marble, Pune",18.7349,73.6905,1,False
+"Pansare Stoll, Pune",18.732103,73.676376,2,False
+"Koteshwari Wadi, Pune",18.7236,73.7092,1,False
+"Kalus Fata, Pune",18.7369,73.9169,2,False
+"Rahse fata, Pune",18.7426,73.8939,3,False
+"Kadachi wadi, Pune",18.7468,73.875,2,False
+"Aambethan chauk, Pune",18.782,73.8178,1,False
+"Chakan Chowk, Pune",18.7632,73.8613,2,False
+"Kharabwadi 1, Pune",18.7589,73.8344,1,False
+"Mahalunge, Pune",18.5738,73.7562,1,False
+"Khalumbre, Pune",18.7392,73.7801,2,False
+"sudumbre 1, Pune",18.7601,73.7566,2,False
+"Sudapul, Pune",18.51957,73.85535,3,False
+"Toll naka, Pune",18.468,73.9612,2,False
+"Sambaji Mharaja Chowk, Pune",18.5394,73.9312,1,False
+"Jay Ganesh Samrajya Chowk, Pune",18.6464,73.8496,2,False
+"Bharat Mata Chowk Moshi phat, Pune",18.6804,73.8515,1,False
+"Moshi Chowk, Pune",18.6867,73.8469,3,False
+"Lakshi Chowk, Pune",18.5997,73.7346,1,False
+"Vitthalwadi mandir, Pune",18.4895,73.8261,2,False
+"HDFC ATM, Pune",18.73,73.69,1,False
+"Gram Panchayat dehu, Pune",18.684626,73.723068,2,False
+"Police station, Pune",18.6863,73.7219,3,False
+"Vadacha Mal, Pune",18.732103,73.676376,2,False
+"Jagadguru park, Pune",18.7321,73.6764,1,False
+"Sairaj Chowk, Pune",18.7259,73.77397,2,False
+"NaneGaon, Pune",19.8895,73.8625,1,False
+"Kamshet, Pune",18.7611,73.5572,3,False
+"Flavours hotel, Pune",18.51957,73.85535,1,False
+"Sangavi gaon, Pune",18.5757,73.826,2,False
+"Sangvi Phata, Pune",18.5733,73.8069,1,False
+"Atharv, Pune",18.7317,73.6639,3,False
+"Sevadham, Pune",18.7372,73.639,2,False
+"Varale-1, Pune",18.7463,73.6873,1,False
+"Varale-2, Pune",18.7463,73.6873,2,False
+"Shivaji Chowk, Pune",18.7373,73.6745,1,False
+"Indrayani College, Pune",18.7353,73.6826,3,False
+"Mondelez International, Pune",18.728089,73.725747,0,True
